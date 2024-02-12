@@ -1,4 +1,4 @@
-package med.voll.api.endereco;
+package med.voll.api.domain.endereco;
 
 import jakarta.persistence.Embeddable;
 import lombok.NoArgsConstructor;
@@ -43,9 +43,4 @@ public class Endereco {
         }
     }
 
-    public void atualizarInformacoes(DadosEndereco dadosEndereco) {
-
-
-
-    }
 }

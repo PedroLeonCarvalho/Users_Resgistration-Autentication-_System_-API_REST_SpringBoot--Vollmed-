@@ -1,9 +1,6 @@
-package med.voll.api.medico;
+package med.voll.api.domain.medico;
 
-import jakarta.persistence.Embedded;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
-import med.voll.api.endereco.Endereco;
+import med.voll.api.domain.endereco.Endereco;
 
 public record DadosDetalhamentoMedico(
         Long id,
