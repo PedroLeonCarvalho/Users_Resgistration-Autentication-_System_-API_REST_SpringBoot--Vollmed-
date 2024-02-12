@@ -1,3 +1,8 @@
+
+## Registration System
+Implements a registration for doctors and pacients, save it in Postgres and has endpoints for Front-End uses. It has a Figma Design  front-end avaible for mobile.
+
+
 ## Technologies Used
 
 - **REST API**: Implementation of a RESTful API for communication between the frontend and backend of the system.
